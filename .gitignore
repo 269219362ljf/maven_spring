@@ -1,0 +1,11 @@
+*.log
+*.temp
+*.class
+*.iml
+/out
+/.idea
+/vendor
+/target
+*.jar
+/*/out
+/*/target
